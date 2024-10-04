@@ -74,7 +74,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
- text-transform: capitalize
+ text-transform: capitalize;
 color: #2e2f42;
 }
 .team-item {
@@ -107,6 +107,7 @@ color:  #2e2f42;
     font-weight: 500;
  font-size: 20px ;
   letter-spacing: 0.02em;
+  line-height: 1.2;
 color: #2e2f42 
 }
 .portfolio-text {
